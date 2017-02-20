@@ -21,7 +21,7 @@
 
   <groupId>com.marvinformatics.feign</groupId>
   <artifactId>feign-spring</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>0.1</version>
 
   <name>feign-spring</name>
   <description>This module overrides OpenFeign/feign annotation processing to instead use standard ones supplied by the spring annotations specification.</description>
